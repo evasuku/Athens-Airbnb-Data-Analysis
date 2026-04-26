@@ -15,7 +15,7 @@ review scores rating
 #### The code handles missing values, addresses outliers and explores average pricing based on the neighbourhood and room type.    
 
 #### Here are some insights: 
-- Agios Nikolaos (ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ) is the neighbourhood with the most expensive Airbnb listings on average.
+- Agios Nikolaos (ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ) is the neighbourhood with the most expensive Airbnb listings.
 
 - Shared rooms are by far the cheapest room types someone can get in Athens. Whereas, Hotel Rooms are, on average, the most expensive option. 
    
