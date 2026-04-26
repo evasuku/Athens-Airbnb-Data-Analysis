@@ -3,3 +3,4 @@
 
 ### Preview:
 <img width="1249" height="999" alt="Athens Airbnb Listings Dashboard" src="https://github.com/user-attachments/assets/0c96b07c-9cbb-45c7-904f-dbd98e699746" />
+<img width="1249" height="999" alt="Airbnb Athens Greece" src="https://github.com/user-attachments/assets/98a84aaf-ef9e-4b7a-bda2-3c95566d0120" />
