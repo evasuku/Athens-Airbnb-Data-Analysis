@@ -20,4 +20,4 @@ review scores rating
 - Shared rooms are by far the cheapest room types someone could get. Whereas, Hotel Rooms are, on average, the most expensive option. 
    
 <img width="1249" height="999" alt="Athens Airbnb Listings Dashboard" src="https://github.com/user-attachments/assets/97d21a9c-2af1-4506-9c33-19c562e5496f" /> 
-#### The above Tableau Dashboard was created to visualise the dataset findings in a clear and comprehensive manner. 
+*The above Tableau Dashboard was created to visualise the dataset findings in a clear and comprehensive manner.*
