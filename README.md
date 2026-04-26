@@ -12,5 +12,5 @@ The dataset was derived from [Inside Airbnb](https://insideairbnb.com/get-the-da
 **Availability 365** (availability the last 365 days)      
 **Review Scores Rating** 
 
-### The code handles missing values, addresses outliers and explores average pricing based on the neighbourhood and room.    
+### The code handles missing values, addresses outliers and explores average pricing based on the neighbourhood and room type.    
 ### Visualisations are also created to help covey the story hidden behind the data in a clear and comprehensive manner.    
