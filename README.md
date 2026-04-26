@@ -23,7 +23,7 @@ review scores rating
 *The above Tableau Dashboard was created to visualise the dataset findings in a clear and comprehensive manner.*
 
 #### Skills Demonstrated:
-- Exloratory Data Analysis
+- Exploratory Data Analysis
 - Python (pandas, numpy, matplotlib)
 - Tableau
 - Data cleaning & preprocessing
