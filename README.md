@@ -21,3 +21,9 @@ review scores rating
    
 <img width="1249" height="999" alt="Athens Airbnb Listings Dashboard" src="https://github.com/user-attachments/assets/97d21a9c-2af1-4506-9c33-19c562e5496f" /> 
 *The above Tableau Dashboard was created to visualise the dataset findings in a clear and comprehensive manner.*
+
+#### Skills Demonstrated:
+- Exloratory Data Analysis
+- Python (pandas, numpy, matplotlib)
+- Tableau
+- Data cleaning & preprocessing
