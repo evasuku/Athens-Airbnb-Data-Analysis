@@ -1,5 +1,5 @@
 # Athens-Airbnb-Data-Analysis
-Athens Airbnb Prices Exploratory Data Analysis
+Athens Airbnb Prices Exploratory Data Analysis (Python + Tableau Dashboard)
 
 ### This is a Data Analytics project using Python to explore Airbnb listings in Athens Greece, and trends in pricing. 
 The dataset was derived from [Inside Airbnb](https://insideairbnb.com/get-the-data/) and only concerns data up to 26 September, 2025 for Athens, Attica, Greece. 
