@@ -23,6 +23,7 @@ review scores rating
    
 <img width="1249" height="999" alt="Airbnb Athens Greece (1)" src="https://github.com/user-attachments/assets/c4efc52f-9694-46e8-bfee-7e713f4ea211" />     
 *The above Tableau Dashboard was created to visualise the dataset findings in a clear and comprehensive manner.*    
+
 *View the full dashboard here: [Tableau Dashboard](https://public.tableau.com/app/profile/eva.suku/viz/AthensAirbnbDataAnalysis/AthensAirbnbListingsDashboard)*
 
 #### Skills Demonstrated:
