@@ -31,3 +31,6 @@ review scores rating
 - Python (pandas, numpy, matplotlib)
 - Tableau
 - Data cleaning & preprocessing
+
+#### Recommendations:
+This analysis only considers the listings dataset so there is an opportunity to learn more about Athens Airbnb trends if we explore the reviews dataset as well.
